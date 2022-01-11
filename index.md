@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Sam Bruton Web Developer
 
-You can use the [editor on GitHub](https://github.com/Samuroid/samuroid.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the website of Sam Bruton who is a Web Developer. Currently he is working at a digital marketing agency in Liverpool. He is open to discuss your next project with you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Heading 2
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This page is still being built, using github pages. Thanks github.
 
 ```markdown
 Syntax highlighted code block
